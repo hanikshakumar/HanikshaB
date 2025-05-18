@@ -7,6 +7,7 @@ open
 close
 b23
 uhhh
+add a file
 hhh
 
 blah
